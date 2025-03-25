@@ -76,7 +76,6 @@ Open in your browser:
 http://localhost:5500/
 ```
 Enter a keyword and click the search button to fetch product data from Amazon.
-```
 
 ## Considerations
 - **Amazon may block excessive requests.** Use the tool responsibly.
@@ -86,5 +85,4 @@ Enter a keyword and click the search button to fetch product data from Amazon.
 ## License
 This project is licensed under the MIT License. Feel free to modify and use it as needed.
 
----
 Made by [Diogo Cardoso](https://github.com/diogo-tcardoso) 🚀
